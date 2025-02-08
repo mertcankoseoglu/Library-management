@@ -1,1 +1,3 @@
 # Library-management
+---
+The main objective of the program is to analyze the incoming requests, which are provided in the form of an input list, and to take the necessary actions. The members of the library are students and academics. They can borrow books and return them before the specified deadline, otherwise they must pay a fee to borrow another book. It is also possible for a member to extend the deadline only once for each book. In addition, certain books cannot be taken out of the library, but can only be read within the library, since they are rarely found and only academics can get to them. Of course, members must be registered in the system before such operations, so that they can use the library’s services.
